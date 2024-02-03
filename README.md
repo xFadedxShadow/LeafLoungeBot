@@ -18,5 +18,6 @@ pip install nextcord[voice]
 ```
 Afterwards you can just run the bot with
 ```
-clear && ./client/main.py
+cd client
+clear && ./main.py
 ```
