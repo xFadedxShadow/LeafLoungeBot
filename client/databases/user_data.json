@@ -1,0 +1,28 @@
+{
+  "280218268038463489": {
+    "level": 4,
+    "xp": 20,
+    "Voice": {
+      "joined_time": null,
+      "channel_id": null,
+      "voicetime": 27
+    },
+    "Warnings": {
+      "amount": 0,
+      "reasons": []
+    }
+  },
+  "921788489337561208": {
+    "level": 4,
+    "xp": 40,
+    "Voice": {
+      "joined_time": null,
+      "channel_id": null,
+      "voicetime": 30
+    },
+    "Warnings": {
+      "amount": 0,
+      "reasons": []
+    }
+  }
+}
