@@ -16,3 +16,7 @@ source {path/to/LeafLoungeBot/}bin/activate
 pip install --upgrade pip
 pip install nextcord[voice]
 ```
+Afterwards you can just run the bot with
+```
+clear && ./client/main.py
+```
