@@ -156,3 +156,4 @@ cython_debug/
 bin
 lib64
 pyvenv.cfg
+client/TOKEN
